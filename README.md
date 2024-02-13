@@ -15,3 +15,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful 
 
 ![dashboard_snap](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/34a135fa-6514-4ee8-a139-146804df7374)
 
+- [x] **Tableau + SQL**
+- Seasonal Flu Vaccination Dashboard: **[Click Here](https://github.com/Pearlyn-B/fluvaccine)**<br />
+![Dashboard_snap](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/10b16968-850b-45d6-aefd-7740fb1dd8ba)
+
