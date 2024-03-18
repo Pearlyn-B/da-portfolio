@@ -7,13 +7,13 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful 
 
 ## Portfolio Projects
 
-- [x] **PowerBI**
+- [x] **PowerBI + Python**
 - Shopee LATAM Sales Analysis Dashboard: **[Click Here](https://github.com/Pearlyn-B/shopeelatam/blob/main/README.md)**<br />
-![Dashboard_snap](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/5327b72c-9385-4ca8-9172-745d3cb9cced)
+![dashboard](https://github.com/Pearlyn-B/portfolio/assets/80374547/768e8ac3-0e78-4d16-87c1-097268b0cb82)
 
 - Airbnb Singapore Listings Analysis Dashboard: **[Click Here](https://github.com/Pearlyn-B/airbnbsg/blob/main/README.md)**<br />
 
-![dashboard_snap](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/34a135fa-6514-4ee8-a139-146804df7374)
+![db_1](https://github.com/Pearlyn-B/portfolio/assets/80374547/d31ed80e-cf8e-424b-8e8d-7ad364c4be41)
 
 - [x] **Tableau + SQL**
 - Seasonal Flu Vaccination Dashboard: **[Click Here](https://github.com/Pearlyn-B/fluvaccine)**<br />
