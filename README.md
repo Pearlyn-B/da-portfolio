@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful 
 
 - Airbnb Singapore Listings Analysis Dashboard: **[Click Here](https://github.com/Pearlyn-B/airbnbsg/blob/main/README.md)**<br />
 
-![db_2](https://github.com/Pearlyn-B/portfolio/assets/80374547/2797eeb3-5aea-400d-9533-891e992a36ad)
+![db_2](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/46123708-2b86-4164-aa87-0658258eee0c)
 
 - [x] **Tableau + SQL**
 - Seasonal Flu Vaccination Dashboard: **[Click Here](https://github.com/Pearlyn-B/fluvaccine)**<br />
