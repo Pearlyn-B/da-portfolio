@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm passionate about leveraging data to derive meaningful 
 
 - [x] **PowerBI + Python**
 - Shopee LATAM Sales Analysis Dashboard: **[Click Here](https://github.com/Pearlyn-B/shopeelatam/blob/main/README.md)**<br />
+
 ![dashboard](https://github.com/Pearlyn-B/portfolio/assets/80374547/768e8ac3-0e78-4d16-87c1-097268b0cb82)
 
 - Airbnb Singapore Listings Analysis Dashboard: **[Click Here](https://github.com/Pearlyn-B/airbnbsg/blob/main/README.md)**<br />
